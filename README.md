@@ -73,6 +73,7 @@ To run the search engine, execute the following script:
 ## Code
 
 The main code for the project is provided in the main.py file, which handles data collection, preprocessing, indexing, query processing, and the Streamlit GUI.
+main.py is included in the Jupyter notebook provided
 
 ## Conclusion
 This project demonstrates the implementation of an information retrieval system with various models and methods to enhance retrieval performance, including traditional TF-IDF and modern BERT-based approaches.
